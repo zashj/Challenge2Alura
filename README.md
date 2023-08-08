@@ -1,1 +1,3 @@
 # Challenge2Alura
+
+Muchos de ustedes son Expertos y tienen una mayor experiencia en este campo... para mi todo estoes nuevo por lo que mi proyecto inicia desde la creacion de un diagrama de flujo, la creacion del seudocodigo  ... jajaja muy basico.... 
