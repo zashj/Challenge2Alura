@@ -18,5 +18,9 @@ iniciamos con un pequeño menu (yase no es lo que esperaban)
 ingrtesamos nuestro importe en peso Mexicano...
 
 
-![image](https://github.com/zashj/Challenge2Alura/assets/41695358/823927ec-b79c-45a5-b4e7-de2196a22e29)
+![image](https://github.com/zashj/Challenge2Alura/assets/41695358/6294e314-2f87-4793-acc3-336cfedfef1d)
 
+y por ultimo nos da el importe cambiado a la moneda elejida... 
+
+
+![image](https://github.com/zashj/Challenge2Alura/assets/41695358/7422d004-6240-49f6-b5c6-d88da2f4c32a)
