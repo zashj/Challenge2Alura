@@ -9,6 +9,8 @@ por lo que estoy subiendo dos clases una que es la version por consola y la segu
 sin mas que decir les presento mi priyecto ... 
 
 iniciamos con un pequeño menu (yase no es lo que esperaban) 
+
+
 ![image](https://github.com/zashj/Challenge2Alura/assets/41695358/5c583019-efe0-4516-8d40-dd7f3aad2a63)
 
 
