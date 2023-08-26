@@ -8,7 +8,7 @@ por lo que estoy subiendo dos clases una que es la version por consola y la segu
 
 sin mas que decir les presento mi priyecto ... 
 
-iniciamos con un pequeño menu (yase no es lo que esperaban)    
+iniciamos con un pequeño menu (ya se no es lo que esperaban) para abrir el modo grafico puedes seleccionar la clase Operaciones
 
 
 
