@@ -4,7 +4,7 @@ A pesar de noser experto... todo proyecto de programación inicia con
 
 1: Diagrma de flujo
 2.. Pseudocodigo
-3... Codificar y Ver que todo falló
+3... Codificar y Ver que todo funcione de manera correcta ... 
 
 por ahora les presento la solucion por consola 
 
