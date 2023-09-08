@@ -1,12 +1,16 @@
 # Challenge2Alura
 
-Muchos de ustedes tienen mayor experiencia en este campo de la programación ... para mi todo esto es nuevo por lo que mi proyecto inicia desde la creación de un diagrama de flujo, la creación del seudocódigo ... jajaja muy básico.... finalmente logue hacer trabajar de manera muy sencilla mi proyecto y por consola...
+A pesar de noser experto... todo proyecto de programación inicia con
+
+1: Diagrma de flujo
+2.. Pseudocodigo
+3... Codificar y Ver que todo falló
+
+por ahora les presento la solucion por consola 
 
 ![image](https://github.com/zashj/Challenge2Alura/assets/41695358/769ff2eb-5a11-403b-9c67-47f369b94644)
 
-por lo que estoy subiendo dos clases una que es la version por consola y la segunda la que es Mi version grafica yo se que aun me falta mucha practicapara tomar experiencia pero realmente cuesta trabajo levar una vida de.... Casa Hijos +  Trabajar + estudiar 
-
-sin mas que decir les presento mi priyecto ... 
+una vez que valide que no tiene errores la logica desarrollo la parte grafica de una manera muy sensilla... 
 
 iniciamos con un pequeño menu (ya se no es lo que esperaban) para abrir el modo grafico puedes seleccionar la clase Operaciones
 
